@@ -1,10 +1,4 @@
-Sure, Henok! Here's a clean, professional, and informative `README.md` file for your **FoodieXpress** project — your first MERN stack food delivery app.
 
-You can copy this directly into your project's root directory on GitHub or your local folder.
-
----
-
-```markdown
 # 🍔 FoodieXpress
 
 A full-stack food delivery website built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js), featuring user and admin authentication, order management, and responsive design. Built as a real-world project and awarded a certificate of completion.
@@ -96,9 +90,9 @@ FoodieXpress/
 
 **Henok Zena**  
 Frontend & Full-Stack Developer  
-📧 henokzena@example.com  
+📧 henokzena650@gmail.com  
 📱 +251 941 867 800  
-🌐 [Portfolio](https://your-portfolio.netlify.app)
+🌐 [Portfolio](https://henokwebdev.netlify.app)
 
 ---
 
@@ -114,14 +108,3 @@ This project was developed as part of a MERN stack training and awarded a certif
 
 ---
 
-```
-
----
-
-### ✅ Want Help With:
-
-* Adding screenshots?
-* Making it ready to upload to GitHub?
-* Creating a deploy script for frontend/backend?
-
-Let me know!
