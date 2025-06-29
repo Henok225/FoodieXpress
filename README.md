@@ -51,10 +51,13 @@ A full-stack food delivery website built using the **MERN stack** (MongoDB, Expr
 
 ## 🧪 Screenshots
 
-![Screenshot1](screenshots/Screenshot%202025-06-29%206.47.56 PM.png)
-![Screenshot2](screenshots/Screenshot%202025-06-29%206.47.43 PM.png)
-![Screenshot3](screenshots/Screenshot%202025-06-29%206.47.31 PM.png)
-![Screenshot4](screenshots/Screenshot%202025-06-29%206.28.09 PM.png)
+![Screenshot1](https://github.com/Henok225/FoodieXpress/blob/main/screenshots/Screenshot%202025-06-29%206.28.09%20PM.png )
+![Screenshot2]( https://github.com/Henok225/FoodieXpress/blob/main/screenshots/Screenshot%202025-06-29%206.47.31%20PM.png )
+![Screenshot3]( https://github.com/Henok225/FoodieXpress/blob/main/screenshots/Screenshot%202025-06-29%206.47.43%20PM.png )
+![Screenshot4]( https://github.com/Henok225/FoodieXpress/blob/main/screenshots/Screenshot%202025-06-29%206.47.56%20PM.png)
+![Screenshot4]( https://github.com/Henok225/FoodieXpress/blob/main/screenshots/Screenshot%202025-06-29%206.48.09%20PM.png)
+![Screenshot4]( https://github.com/Henok225/FoodieXpress/blob/main/screenshots/Screenshot%202025-06-29%206.48.20%20PM.png)
+![Screenshot4](https://github.com/Henok225/FoodieXpress/blob/main/screenshots/Screenshot%202025-06-29%206.49.06%20PM.png)
 
 ---
 
