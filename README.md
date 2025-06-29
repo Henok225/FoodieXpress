@@ -51,7 +51,10 @@ A full-stack food delivery website built using the **MERN stack** (MongoDB, Expr
 
 ## 🧪 Screenshots
 
-*(Add screenshots here if you have them)*
+Screenshot 2025-06-29 6.47.56 PM.png
+Screenshot 2025-06-29 6.47.43 PM.png
+Screenshot 2025-06-29 6.47.31 PM.png
+Screenshot 2025-06-29 6.28.09 PM.png
 
 ---
 
