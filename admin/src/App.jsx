@@ -8,7 +8,7 @@ import List from './pages/list/List'
 import { ToastContainer } from 'react-toastify';
 
 const App = () => {
-  const url = "http://localhost:4000"
+  const url = "https://foodiexpress.onrender.com"
   return (
     <div>
       <ToastContainer/>
